@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	. "github.com/motain/gocheck"
-	"github.com/soniah/dnsmadeeasy/testutil"
+	"github.com/Disciple-Media/dnsmadeeasy/testutil"
 	"net/http"
 	"net/http/httptest"
 	"testing"
